@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @noobfromph
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-noobfromph/noobfromph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Ej.
+- 👀 I’m interested in exploring the world of coding, software development, and artificial intelligence.
+- 🌱 I’m currently learning various programming languages and frameworks such as Python, JavaScript, and React.
+- 💞️ I’m looking to collaborate on open-source projects or any exciting coding challenges.
+- 📫 How to reach me: You can reach me through email at ejlungay@gmail.com. Feel free to reach out if you have any questions or if you'd like to collaborate on a project.
