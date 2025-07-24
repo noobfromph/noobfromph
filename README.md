@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Ej.
-- 👀 I’m interested in exploring the world of coding, software development, and artificial intelligence.
-- 🌱 I’m currently learning various programming languages and frameworks such as Rust, Python, JavaScript, and Vue.
-- 💞️ I’m looking to collaborate on open-source projects or any exciting coding challenges.
-- 📫 How to reach me: You can reach me through email at ejlungay@gmail.com. Feel free to reach out if you have any questions or if you'd like to collaborate on a project.
+
